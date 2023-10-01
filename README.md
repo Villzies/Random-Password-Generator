@@ -38,7 +38,7 @@ Default Home Screen ![image](/assets/default-page.png)
 
 ##Deployed Webpage
 
-https://villzies.github.io/JS_Quiz/
+https://villzies.github.io/Random-Password-Generator/
 
 ##Repository
 
