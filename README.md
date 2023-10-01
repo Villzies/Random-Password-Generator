@@ -7,7 +7,6 @@ Javascript Quiz: Test your knowledge of Javascript with this easy to use quiz
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [Deployed Webpage](#deployed-webpage)
 - [Repository](#repository)
