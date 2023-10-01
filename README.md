@@ -34,7 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ##Screenshots
 
-Sample Question Page ![image](https://github.com/Villzies/JS_Quiz_Redeux/assets/135443479/46face1c-67c5-457f-bb52-dd6f88001abf)
+Default Home Screen ![image](/assets/default-page.png)
 
 ##Deployed Webpage
 
