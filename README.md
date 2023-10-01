@@ -2,7 +2,7 @@
 # JS_Quiz
 
 ## Project Title
-Javascript Quiz: Test your knowledge of Javascript with this easy to use quiz
+Random Password Generator
 
 ## Table of Contents
 
